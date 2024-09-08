@@ -1,0 +1,5 @@
+make a folder in the system and run the command to make the ts config file 
+is "tsc --init" and check inthe code ts config file is made up
+and package.json file created the file on run this command "npm init -y"
+first of all if you type the code into the ts file if you compile the code you run on cmd "tsc" and "node index.js"
+list  =[1,2,3,4,5,5,6,66,6,4,5,4,3,2,]
